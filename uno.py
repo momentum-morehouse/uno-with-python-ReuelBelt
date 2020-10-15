@@ -68,7 +68,7 @@ class Game:
     def deal(self):
     #determine order of dealing
         #how to do pop with an index 
-        #while length of 
+        #while length of hand is less than 7 cards 
     #deal cards alternate between each players until both have 7
     #use loop to deal cards, multiple rounds (round 1, etc.)
     #take a card from the top of shuffled deck and append card to each players hand for 7 rounds
